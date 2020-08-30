@@ -1,5 +1,5 @@
 <?php
-
+//添加注释
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
